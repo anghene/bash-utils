@@ -1,0 +1,4 @@
+export PATH=$PATH:~/.bin/
+export CHPDIR=~/code/chatpiper
+export CHPJAVADIR=~/code/chatpiper-java
+export WORKDIR=~/code
